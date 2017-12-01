@@ -13,3 +13,7 @@
     .navbar .nav-link:hover {
       color: #fff !important;
       background-color: #005ca7; }
+
+.carousel-item {
+  height: 500px;
+  background-color: blue; }
