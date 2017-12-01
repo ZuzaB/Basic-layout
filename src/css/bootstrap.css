@@ -268,7 +268,7 @@ html {
   -webkit-tap-highlight-color: transparent; }
 
 body {
-  font-family: -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+  font-family: "Ubuntu", Roboto, "Helvetica Neue", Arial, sans-serif;
   font-size: 1rem;
   font-weight: normal;
   line-height: 1.5;
@@ -431,7 +431,7 @@ h1, h2, h3, h4, h5, h6,
   color: inherit; }
 
 h1, .h1 {
-  font-size: 2.5rem; }
+  font-size: 1.7rem; }
 
 h2, .h2 {
   font-size: 2rem; }
@@ -3655,7 +3655,7 @@ button.close {
   position: absolute;
   z-index: 1070;
   display: block;
-  font-family: -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+  font-family: "Ubuntu", Roboto, "Helvetica Neue", Arial, sans-serif;
   font-style: normal;
   font-weight: normal;
   letter-spacing: normal;
@@ -3737,7 +3737,7 @@ button.close {
   display: block;
   max-width: 276px;
   padding: 1px;
-  font-family: -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+  font-family: "Ubuntu", Roboto, "Helvetica Neue", Arial, sans-serif;
   font-style: normal;
   font-weight: normal;
   letter-spacing: normal;
