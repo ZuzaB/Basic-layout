@@ -16,4 +16,16 @@
 
 .carousel-item {
   height: 500px;
-  background-color: blue; }
+  background-color: grey; }
+
+footer {
+  background: url("../assets/footer-map.png") top right no-repeat;
+  color: #fff;
+  border-bottom: 3px solid #f8c538; }
+  footer a {
+    color: inherit; }
+  footer span {
+    color: #8296a6; }
+
+#cookiesMessage {
+  display: none; }

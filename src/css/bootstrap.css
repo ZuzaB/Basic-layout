@@ -2952,8 +2952,8 @@ tbody.collapse.show {
     background-color: transparent; }
 
 .card-info {
-  background-color: #5bc0de;
-  border-color: #5bc0de; }
+  background-color: #062e4e;
+  border-color: #062e4e; }
   .card-info .card-header,
   .card-info .card-footer {
     background-color: transparent; }
@@ -4031,10 +4031,10 @@ a.bg-success:focus, a.bg-success:hover {
   background-color: #449d44 !important; }
 
 .bg-info {
-  background-color: #5bc0de !important; }
+  background-color: #062e4e !important; }
 
 a.bg-info:focus, a.bg-info:hover {
-  background-color: #31b0d5 !important; }
+  background-color: #02121f !important; }
 
 .bg-warning {
   background-color: #f0ad4e !important; }
@@ -5894,10 +5894,10 @@ a.text-success:focus, a.text-success:hover {
   color: #449d44 !important; }
 
 .text-info {
-  color: #5bc0de !important; }
+  color: #062e4e !important; }
 
 a.text-info:focus, a.text-info:hover {
-  color: #31b0d5 !important; }
+  color: #02121f !important; }
 
 .text-warning {
   color: #f0ad4e !important; }

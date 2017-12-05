@@ -1,27 +1,41 @@
 .title {
   color: #fff;
   font-weight: normal;
-  // font-size: 1.3rem;
 }
 .navbar {
   width: 100%;
 
-  &-toggler{
+  &-toggler {
     cursor: pointer;
     outline: 0;
   }
 
-  .nav-link{
+  .nav-link {
     text-transform: uppercase;
     font-weight: bold;
-    &:hover{
+    &:hover {
       color: #fff !important;
       background-color: #005ca7;
     }
   }
 }
 
-.carousel-item{
+.carousel-item {
   height: 500px;
-  background-color: blue;
+  background-color: grey;
+}
+
+footer {
+  background: url("../assets/footer-map.png") top right no-repeat;
+  color: #fff;
+  a{
+    color: inherit;
+  }
+  span{
+    color: #8296a6;
+  }
+  border-bottom: 3px solid #f8c538;
+}
+#cookiesMessage{
+  display: none;
 }
